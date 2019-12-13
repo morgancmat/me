@@ -1,0 +1,131 @@
+h1 {
+  color: #080926;
+  font-family: helvetica;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 10px;
+  margin: 10px;
+  margin-top: 0px;
+}
+
+h2 {
+  color: #400C1A;
+  font-family: Arial;
+  text-align: center;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+h3 {
+  padding: 20px;
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+nav {
+  float: left;
+  font-size: 20px;
+  line-height: 40px;
+  height: 580px;
+}
+
+a {
+  color: #8C1127;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  background-color: #BF6849;
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+a:hover {
+  color: #F28963;
+  background-color: #8C1127;
+}
+
+#one {
+  padding-left: 250px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 15px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+p {
+  text-align: justify;
+  padding: 20px;
+  padding-top: 0px;
+}
+#selfie {
+  background-color: #8C524D;
+  width: 200px;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 0px;
+  border: 2px solid #8C1127;
+}
+
+.pics {
+  width: 250px;
+  float: left;
+  padding: 20px;
+  padding-top: 0px;
+}
+
+#portfolio {
+  padding-left: 240px;
+}
+
+#side {
+  text-align: justify;
+  padding: 10px;
+  padding-top: 0px;
+  margin: 10px;
+  margin-left: 475px;
+}
+body {
+  background-image: url(galaxy.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+  /* background-color: #8C524D; */
+}
+#wrapper {
+  outline: 3px solid #8C1127;
+  background-color: #F28963;
+  width: 75%;
+  /* height: ; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding-top: 10px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+p {
+  font-size: 20px;
+  margin: 15px;
+}
+
+iframe {
+  height: 250px;
+  padding: 0px;
+  margin: 15px;
+}
+
+#ytone {
+  float: left;
+}
+
+#yttwo {
+  float: left;
+}
+
+.vid {
+  overflow: auto;
+}
